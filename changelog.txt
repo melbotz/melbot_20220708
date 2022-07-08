@@ -13,6 +13,7 @@ gitignore
 better README
 credit robohash
 github in npm
+align with schema.org
 
 
 20220707
