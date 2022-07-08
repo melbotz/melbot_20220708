@@ -8,7 +8,6 @@ json schema
 vocabs
 styles, link colour
 correct date format
-gitignore
 market for bots
 bot factory script
 credit robohash
@@ -21,3 +20,5 @@ button to add bookmarks
 factory bot
 buy marks skill
 donation address
+better README
+better description for link than reddit

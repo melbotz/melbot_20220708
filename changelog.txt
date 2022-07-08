@@ -9,6 +9,8 @@ nostr
   generate nostr id
     from public key
 npm publish
+gitignore
+
 
 20220707
 new bot
