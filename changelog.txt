@@ -5,6 +5,9 @@ navbar
 bookmark component
 multiple bookmarks
 bookmark map
+nostr
+  generate nostr id
+    from public key
 
 
 20220707

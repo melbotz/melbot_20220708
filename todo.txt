@@ -1,8 +1,5 @@
 todo
 
-nostr
-  generate nostr id
-    from public key
 inline libraries
 vocab for bookmarks
 use linked objects
