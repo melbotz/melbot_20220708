@@ -1,13 +1,14 @@
 todo
 
-bookmark map
+nostr
+  generate nostr id
+    from public key
 inline libraries
 vocab for bookmarks
 use linked objects
 app layout
 json schema
 vocabs
-nostr
 styles, link colour
 correct date format
 link to next bot

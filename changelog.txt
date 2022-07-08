@@ -4,6 +4,7 @@ link to next bot
 navbar
 bookmark component
 multiple bookmarks
+bookmark map
 
 
 20220707

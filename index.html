@@ -108,14 +108,11 @@
 
           <table>
             <tr>
-              <${Bookmark}
-                uri="${bookmarks[0]['@id']}"
-                image="${bookmarks[0].image}"
-              />
-              <${Bookmark}
-                uri="${bookmarks[1]['@id']}"
-                image="${bookmarks[1].image}"
-              />
+              ${bookmarks.map(i => {
+                return html`
+                  <${Bookmark} uri="${i['@id']}" image="${i.image}" />
+                `
+              })}
             </tr>
           </table>
 
