@@ -20,6 +20,7 @@ add changelog
 better description for link than reddit
 add tailwind
 deployment link in readme
+reload on ws
 
 market for bots
 bot factory script
@@ -27,3 +28,5 @@ factory bot
 button to add bookmarks
 buy marks skill
 donation address
+bookmarklet
+aggregator
