@@ -10,6 +10,7 @@ nostr
     from public key
 npm publish
 gitignore
+better README
 
 
 20220707

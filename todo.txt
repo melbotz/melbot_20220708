@@ -20,5 +20,4 @@ button to add bookmarks
 factory bot
 buy marks skill
 donation address
-better README
 better description for link than reddit
