@@ -11,6 +11,8 @@ nostr
 npm publish
 gitignore
 better README
+credit robohash
+github in npm
 
 
 20220707

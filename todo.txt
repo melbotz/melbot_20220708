@@ -1,24 +1,29 @@
 todo
 
+publish git marks to nostr
+publish content to nostr
+run with npx
+
 inline libraries
-vocab for bookmarks
-use linked objects
-app layout
-json schema
+components library
+
 vocabs
+vocab for bookmarks
+json schema
+
+use linked objects
+
+app layout
 styles, link colour
 correct date format
-market for bots
-bot factory script
-credit robohash
 add changelog
-components library
-publish git marks to nostr
-github in npm
-publish content to nostr
-button to add bookmarks
-factory bot
-buy marks skill
-donation address
 better description for link than reddit
 add tailwind
+deployment link in readme
+
+market for bots
+bot factory script
+factory bot
+button to add bookmarks
+buy marks skill
+donation address
