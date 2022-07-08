@@ -1,8 +1,10 @@
 todo
 
 publish git marks to nostr
+get git-mark-init working
+set up relays for NIP 17
 publish content to nostr
-run with npx
+deploy.sh
 
 inline libraries
 components library
@@ -21,6 +23,7 @@ better description for link than reddit
 add tailwind
 deployment link in readme
 reload on ws
+wider tables
 
 market for bots
 bot factory script

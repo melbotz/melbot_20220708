@@ -14,7 +14,8 @@ better README
 credit robohash
 github in npm
 align with schema.org
-
+run with npx
+add deploy.txt
 
 20220707
 new bot
