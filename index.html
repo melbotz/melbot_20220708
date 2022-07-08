@@ -31,14 +31,32 @@
     </script>
 
     <script type="module">
+      // IMPORTS
       import { render, html } from 'https://cdn.skypack.dev/spux'
       import 'https://cdn.skypack.dev/dior'
 
+      // COMPONENTS
+      function Navbar (props) {
+        let title = props.title || 'Spux'
+        return html`
+          <div id="navbar" style="margin-top: -10px; margin-bottom: -10px;">
+            <div class="bg-success pv2 row">
+              <div class="col">
+                <a href="#buttons" class="white ph2 bold">${title}</a>
+              </div>
+            </div>
+          </div>
+          <hr />
+        `
+      }
+
+      // INIT
       var bookmarks = di.data.bookmark
 
+      // RENDER
       render(
         html`
-          <h4>${di.data.gitmark['nick']}</h4>
+          <${Navbar} title="${di.data.gitmark['nick']}" />
 
           <img
             src="https://robohash.org/gitmark:a1debb87fa905ac7a0ba281abfe75b737fe6b56532097b941f3cd05a6eaf809d:0"
@@ -77,12 +95,16 @@
           ]}" target="_blank">${bookmarks[0]['@id']}</a>
                 </pre>
 
-          <a
-            style="color: blue"
-            href="https://gitmark.info/${di.data.gitmark['@id'].split(':')[1]}"
-            target="_blank"
-            >${di.data.gitmark['@id']}</a
-          >
+          <footer>
+            <a
+              style="color: blue"
+              href="https://gitmark.info/${di.data.gitmark['@id'].split(
+                ':'
+              )[1]}"
+              target="_blank"
+              >${di.data.gitmark['@id']}</a
+            >
+          </footer>
         `,
         document.body
       )

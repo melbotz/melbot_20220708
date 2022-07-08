@@ -4,7 +4,6 @@ multiple bookmarks
 bookmark component
 inline libraries
 vocab for bookmarks
-navbar
 use linked objects
 app layout
 json schema

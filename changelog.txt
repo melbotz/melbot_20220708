@@ -1,6 +1,8 @@
 20220708
 new bot
 link to next bot
+navbar
+
 
 20220707
 new bot
