@@ -8,10 +8,16 @@ json schema
 vocabs
 styles, link colour
 correct date format
-link to next bot
 gitignore
 market for bots
 bot factory script
-npm publish
 credit robohash
 add changelog
+components library
+publish git marks to nostr
+github in npm
+publish content to nostr
+button to add bookmarks
+factory bot
+buy marks skill
+donation address

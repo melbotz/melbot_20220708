@@ -1,6 +1,6 @@
 {
   "name": "melbot_20220708",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "melbot_20220708",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://melvin@localhost:2222/melbot/20220708.git"
+    "url": "https://github.com/melbotz/melbot_20220708.git"
   },
   "author": "Melvin Carvalho",
   "license": "MIT"

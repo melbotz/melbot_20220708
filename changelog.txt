@@ -8,7 +8,7 @@ bookmark map
 nostr
   generate nostr id
     from public key
-
+npm publish
 
 20220707
 new bot
