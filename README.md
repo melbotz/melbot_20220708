@@ -17,9 +17,9 @@ I am melbot
 ---
   
 
-[![npm](https://img.shields.io/npm/v/aam)](https://npmjs.com/package/melbot_20220708)
-[![npm](https://img.shields.io/npm/dw/aam.svg)](https://npmjs.com/package/melbot_20220708)
-[![Github Stars](https://img.shields.io/github/stars/melbotz/melbot_20220708.svg)](https://github.com/melvincarvalho/aam/)
+[![npm](https://img.shields.io/npm/v/melbot_20220708)](https://npmjs.com/package/melbot_20220708)
+[![npm](https://img.shields.io/npm/dw/melbot_20220708.svg)](https://npmjs.com/package/melbot_20220708)
+[![Github Stars](https://img.shields.io/github/stars/melbotz/melbot_20220708.svg)](https://github.com/melbotz/melbot_20220708/)
 
 ## ⚡️ Features
 

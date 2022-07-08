@@ -21,3 +21,4 @@ factory bot
 buy marks skill
 donation address
 better description for link than reddit
+add tailwind
