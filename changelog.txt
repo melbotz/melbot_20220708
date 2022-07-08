@@ -2,6 +2,8 @@
 new bot
 link to next bot
 navbar
+bookmark component
+multiple bookmarks
 
 
 20220707

@@ -1,7 +1,6 @@
 todo
 
-multiple bookmarks
-bookmark component
+bookmark map
 inline libraries
 vocab for bookmarks
 use linked objects
